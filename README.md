@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning Data Scinece **@IIT Madras
+- 🌱 I’m currently learning Data Scinece **@IIT Madras**
 - 👯 I’m looking to collaborate on data analytics and visualization projects
 - 🤔 I’m looking for help with **Cloud computing, Flutter**
 - 💬 Ask me about  **Python and Statistics**
